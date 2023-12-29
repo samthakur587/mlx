@@ -16,6 +16,7 @@ Layers
    SiLU
    Step
    SELU
+   Softplus
    Mish
    Embedding
    Linear
